@@ -1,0 +1,64 @@
+
+
+body {
+
+    background: ;
+    margin: 4% 10% 2% 10%;
+    padding: 0;
+
+}
+
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    word-spacing: 2px;
+    line-height: 29px;
+}
+
+.welcome {
+    text-align: right;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:#064BBA;
+} 
+
+.main-pic-container {
+    padding-top: 20px;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    
+}
+
+.pic-box {
+margin: auto;
+padding: 5px 10px;
+min-width: 150px;
+max-width: 300px;
+}
+
+.last-text{
+    margin-right: 90px;
+    margin-left: 90px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.last-links {
+    padding-top:15px;
+    font-size: 15px;
+    align-content: center;
+    text-align: center;
+
+}
